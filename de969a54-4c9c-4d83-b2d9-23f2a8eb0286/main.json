@@ -1,1 +1,1 @@
-{"allocations": {"UST": 6.25, "PST": 6.25, "UJB": 6.25, "SJB": 6.25, "PFIX": 6.25, "RFIX": 6.25, "UUP": 6.25, "UDN": 6.25, "YCL": 6.25, "YCS": 6.25, "ULE": 6.25, "EUO": 6.25, "UGL": 6.25, "GLL": 6.25, "IBIT": 6.25, "BITI": 6.25}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"UST": 40.0, "SJB": 20.0, "RFIX": 5.0, "UDN": 15.0, "YCL": 5.0, "ULE": 5.0, "UGL": 5.0, "IBIT": 3.0, "SGOV": 2.0}, "frequency": 30, "name": "", "period": "days"}
