@@ -1,1 +1,1 @@
-{"allocations": {"UST": 40.0, "SJB": 20.0, "RFIX": 5.0, "UDN": 15.0, "YCL": 5.0, "ULE": 5.0, "UGL": 5.0, "IBIT": 3.0, "SGOV": 2.0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"UDN": 15.0, "YCL": 5.0, "ULE": 5.0, "UGL": 5.0, "IBIT": 3.0, "SGOV": 2.0, "PST": 30.0, "UJB": 30.0, "PFIX": 5.0}, "frequency": 30, "name": "", "period": "days"}
